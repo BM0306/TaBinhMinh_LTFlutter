@@ -10,7 +10,6 @@
 			"id": 2,
 			"title": "Du lịch Hà Nội",
 			"body": "Kinh nghiệm du lịch Hà Nội tự túc: Những địa điểm nên đến và món ăn không thể bỏ qua.",
-
 		},
 		{
 			"id": 3,
@@ -20,7 +19,7 @@
 	}
 	
 	],
-	"users": {
+	"users": [
 		{
 			"username" :"minh",
 			"password"  :"#Bm0306@3",
@@ -31,7 +30,7 @@
 			"password" : "123456@Abc",
 			"fullname" : "Park",
 		}
-	}
+	]
 }			
 			
 	
