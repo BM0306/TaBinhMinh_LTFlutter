@@ -1,0 +1,43 @@
+{
+	"posts:" [
+		{
+			"id": 1,
+			"title": "Cách nấu súp cua",
+			"body": "Hướng dẫn chi tiết cách nấu súp cua thơm ngon và đậm đà.",
+
+		},
+		{
+			"id": 2,
+			"title": "Du lịch Hà Nội",
+			"body": "Kinh nghiệm du lịch Hà Nội tự túc: Những địa điểm nên đến và món ăn không thể bỏ qua.",
+
+		},
+		{
+			"id": 3,
+			"title": "Hướng dẫn sử dụng Python",
+			"body": "Giới thiệu và hướng dẫn cơ bản về cách sử dụng Python để phát triển Machine Learning.",
+
+	}
+	
+	],
+	"users": {
+		{
+			"username" :"minh",
+			password"  :"#Bm0306@3",
+			"fullname" :Ta Binh Minh"	
+		},
+		{
+			"username" : "park",
+			"password" : "123456@Abc"
+			"fullname" : "Park"
+		}
+	}
+}			
+			
+	
+	
+	
+		
+	
+	
+	
