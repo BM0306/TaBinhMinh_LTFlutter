@@ -24,12 +24,12 @@
 		{
 			"username" :"minh",
 			"password"  :"#Bm0306@3",
-			"fullname" :Ta Binh Minh"	
+			"fullname" :"Ta Binh Minh",	
 		},
 		{
 			"username" : "park",
-			"password" : "123456@Abc"
-			"fullname" : "Park"
+			"password" : "123456@Abc",
+			"fullname" : "Park",
 		}
 	}
 }			
